@@ -1,5 +1,4 @@
-### Hi there 👋
-
+- 👋 Hi, I’m @rrrinat
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Unity
 - 👯 I’m looking to collaborate on ...
